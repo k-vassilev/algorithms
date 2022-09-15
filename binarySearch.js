@@ -45,5 +45,5 @@ const binarySearch = (val, arr) => {
   return -1;
 };
 
-// Binary Search Test
+// Binary Search Tests
 console.log(binarySearch(11, data));
